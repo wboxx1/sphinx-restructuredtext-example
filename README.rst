@@ -1,6 +1,6 @@
-unittest-testsuite-example
+sphinx-restructuredtext-example
 ==========================
-Python example on unit testing using the built in unittest and testsuite classes
+An example of using Sphinx and ReStructuredText to document Python code.
 
 COMING SOON
 -----------
